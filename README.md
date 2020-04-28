@@ -1,0 +1,2 @@
+# kocka
+souvisí s Karlem
